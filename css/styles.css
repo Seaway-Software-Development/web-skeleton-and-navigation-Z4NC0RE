@@ -16,6 +16,7 @@ header {
 
 nav {
     background-color:#0D3B66;
+    min-width: 100%;
     color: #F4D35E;
     display: inline-block;
 }
@@ -48,3 +49,6 @@ table {
 
 }
 
+footer {
+    background-color: #0D3B66;
+}
