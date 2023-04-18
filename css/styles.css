@@ -3,12 +3,14 @@ body {
 }
 
 h1 {
+    font-size: 2em;
     color: #0D3B66;
     font-family: 'Press Start 2P', cursive;
 }
 
 h2 {
-
+    font-size: 2em;
+    color: #0D3B66;
 }
 
 header {
