@@ -28,9 +28,13 @@ nav ul {
 
 nav ul li {
     color: #F4D35E;
+    text-decoration: none;
+    text-align: center;
 }
 
 nav ul li a {
+    color: #F4D35E;
+    font-size: 2em;
 
 }
 
