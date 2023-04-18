@@ -3,21 +3,21 @@ body {
 }
 
 h1 {
-    font-size: 7em;
+    font-size: 10em;
     color: #0D3B66;
     font-family: 'Press Start 2P', cursive;
-    margin-left: 55%;
+    margin-left: 45%;
 }
 
 h2 {
-    font-size: 5em;
+    font-size: 6em;
     color: #0D3B66;
     font-family: 'Press Start 2P', cursive;
-    margin-left: 60%;
+    margin-left: 50%;
 }
 
 #h2part2 {
-    margin-left: 65%;
+    margin-left: 55%;
 }
 
 header {
@@ -86,4 +86,6 @@ table {
 
 footer {
     background-color: #0D3B66;
+    color: white;
+    text-align: center;
 }
