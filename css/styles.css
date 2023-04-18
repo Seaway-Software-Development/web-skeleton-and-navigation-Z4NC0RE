@@ -6,12 +6,18 @@ h1 {
     font-size: 7em;
     color: #0D3B66;
     font-family: 'Press Start 2P', cursive;
+    margin-left: 55%;
 }
 
 h2 {
     font-size: 6em;
     color: #0D3B66;
     font-family: 'Press Start 2P', cursive;
+    margin-left: 60%;
+}
+
+#h2part2 {
+    margin-left: 65%;
 }
 
 header {
