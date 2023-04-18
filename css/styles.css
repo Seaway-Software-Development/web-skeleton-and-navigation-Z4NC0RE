@@ -83,6 +83,16 @@ article section {
     padding: 150px 20%;
 }
 
+#section2 {
+    background-color: red;
+    color: black;
+}
+
+#section3 {
+    background-color: navy;
+    color: aliceblue;
+}
+
 table {
 
 }
