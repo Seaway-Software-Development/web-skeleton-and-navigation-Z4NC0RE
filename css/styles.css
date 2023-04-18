@@ -23,7 +23,8 @@ nav {
 }
 
 nav ul {
-
+    padding: 15px 10px;
+    background-color: #0D3B66;
 }
 
 nav ul li {
