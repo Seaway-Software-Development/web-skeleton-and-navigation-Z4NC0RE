@@ -59,6 +59,15 @@ main {
     float: inherit;
 }
 
+article {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+article section {
+    padding: 150px 20%;
+}
+
 table {
 
 }
