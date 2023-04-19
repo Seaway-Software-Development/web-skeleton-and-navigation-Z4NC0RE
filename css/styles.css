@@ -102,17 +102,16 @@ article section {
 }
 
 .headertext {
-    margin-left: 40px;
+    margin-left: 45px;
 }
 
 .info {
-    margin-left: 50px;
+    margin-left: 60px;
 }
 
-.frame {
+iframe {
 	position: relative;
 	max-width: 425px;
-    margin-left: 40%;
 	margin: 2% auto;
 }
 
