@@ -119,6 +119,10 @@ article section {
     text-align: center;
 }
 
+fieldset {
+    min-height: 500px;
+}
+
 .map {
     width: 600px;
     height: 450px;
