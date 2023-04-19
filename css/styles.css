@@ -119,12 +119,16 @@ article section {
     text-align: center;
 }
 
+.left {
+    margin: right;
+}
+
 #center {
     text-align: center;
 }
 
 .right {
-    margin-left: 100%;
+    margin: left;
 }
 
 fieldset {
