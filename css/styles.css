@@ -101,9 +101,18 @@ article section {
     color: aliceblue;
 }
 
+.headertext {
+    margin-left: 40px;
+}
+
+.info {
+    margin-left: 50px;
+}
+
 .frame {
 	position: relative;
 	max-width: 425px;
+    margin-left: 40%;
 	margin: 2% auto;
 }
 
