@@ -141,6 +141,12 @@ fieldset {
 
 }
 
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 20px;
+}
+
 table {
 
 }
