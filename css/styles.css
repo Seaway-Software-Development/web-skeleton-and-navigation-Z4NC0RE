@@ -115,10 +115,14 @@ article section {
 	margin: 2% auto;
 }
 
+.center {
+    text-align: center;
+}
+
 .map {
     width: 600px;
     height: 450px;
-    margin-left: 60%;
+
 }
 
 table {
