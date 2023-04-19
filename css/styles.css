@@ -101,6 +101,12 @@ article section {
     color: aliceblue;
 }
 
+.frame {
+	position: relative;
+	max-width: 425px;
+	margin: 2% auto;
+}
+
 table {
 
 }
