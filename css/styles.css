@@ -109,10 +109,16 @@ article section {
     margin-left: 60px;
 }
 
-iframe {
+.frame {
 	position: relative;
 	max-width: 425px;
 	margin: 2% auto;
+}
+
+.map {
+    width: 600px;
+    height: 450px;
+    margin-left: 60%;
 }
 
 table {
