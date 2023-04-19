@@ -119,6 +119,14 @@ article section {
     text-align: center;
 }
 
+#center {
+    text-align: center;
+}
+
+.right {
+    margin-left: 100%;
+}
+
 fieldset {
     min-height: 50px;
 }
