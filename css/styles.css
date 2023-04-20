@@ -147,6 +147,10 @@ fieldset {
     grid-gap: 15px;
 }
 
+.grid h3, p {
+    text-align: center;
+}
+
 .grid img{
     width: 300px;
     height: 200px;
