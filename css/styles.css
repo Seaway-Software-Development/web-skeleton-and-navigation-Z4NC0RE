@@ -174,7 +174,8 @@ fieldset {
     background-color: white;
     padding: 10px;
     text-decoration: none;
-    text-align: center;
+    top: 50%;
+    left: 50%;
     border-radius: 5px;
     display: inline-block;
     color: black;
