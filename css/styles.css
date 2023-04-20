@@ -121,14 +121,12 @@ article section {
 
 .left {
     float: left;
-    padding: 15px;
     width: 500px;
     height: 400px;
 }
 
 .right {
     float: right;
-    padding: 15px;
     width: 500px;
     height: 600px;
 }
