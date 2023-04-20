@@ -143,8 +143,8 @@ fieldset {
 
 #lorem1, #lorem2, #lorem3 {
     width: 29%;
+    float: left;
 	margin: 0 2%;
-    display: inline-block;
 }
 
 #lorem1 img, #lorem2 img, #lorem3 img {
