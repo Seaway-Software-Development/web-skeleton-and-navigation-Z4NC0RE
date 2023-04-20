@@ -142,7 +142,9 @@ fieldset {
 }
 
 #lorem1, #lorem2, #lorem3 {
-    margin: 0 2%;
+    width: 29%;
+	float: left;
+	margin: 0 2%;
 }
 
 table {
