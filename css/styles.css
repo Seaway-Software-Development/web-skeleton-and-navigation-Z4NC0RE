@@ -181,6 +181,22 @@ fieldset {
     width: 500px;
 }
 
+.grid2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 15px;
+}
+
+.grid2 h3, p {
+    text-align: center;
+}
+
+.grid2 img{
+    width: 400px;
+    height: 500px;
+    display: inline-block;
+}
+
 table {
 
 }
