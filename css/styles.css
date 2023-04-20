@@ -175,6 +175,8 @@ fieldset {
     padding: 10px;
     text-decoration: none;
     text-align: center;
+    border-radius: 5px;
+    display: inline-block;
     color: black;
 }
 
