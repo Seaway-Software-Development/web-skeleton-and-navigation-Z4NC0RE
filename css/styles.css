@@ -119,6 +119,12 @@ article section {
     text-align: center;
 }
 
+#comanystuff {
+    margin: 0 auto;
+    width: 80%;
+    min-height: 500px;
+}
+
 .left {
     float: left;
     width: 500px;
