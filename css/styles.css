@@ -119,12 +119,6 @@ article section {
     text-align: center;
 }
 
-#companystuff {
-    margin: 0 auto;
-    width: 80%;
-    min-height: 500px;
-}
-
 #companystuff h3 {
     font-size: 1.5em;
     text-decoration: underline;
