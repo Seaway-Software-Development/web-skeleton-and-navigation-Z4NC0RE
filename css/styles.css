@@ -145,6 +145,7 @@ fieldset {
     width: 29%;
 	float: left;
 	margin: 0 2%;
+    display: inline-block;
 }
 
 #lorem1, #lorem2, #lorem3 img {
