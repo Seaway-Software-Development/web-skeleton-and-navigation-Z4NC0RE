@@ -69,6 +69,10 @@ blockquote {
 
 }
 
+.background {
+    background-color: #FAF0CA;
+}
+
 main {
     background-color: #FAF0CA;
     font-size: 2.5em;
