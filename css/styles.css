@@ -147,7 +147,7 @@ fieldset {
     display: inline-block;
 }
 
-#lorem1, #lorem2, #lorem3 img {
+#lorem1 img, #lorem2 img, #lorem3 img {
     height: 200px;
     width: 300px;
 }
