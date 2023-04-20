@@ -172,12 +172,16 @@ fieldset {
 
 .grid a {
     background-color: white;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
     color: black;
 }
 
 .grid a:hover {
     background-color: white;
     color: #0D3B66;
+    text-decoration: underline;
 }
 
 .bluArticle {
