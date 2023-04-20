@@ -180,9 +180,40 @@ fieldset {
     color:#F4D35E;
 }
 
-.workingIMG {
-    height: 300px;
-    width: 400px;
+#workIMG1 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work1.jpeg);
+}
+
+#workIMG2 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work2.jpeg);
+}
+
+#workIMG3 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work3.jpeg);
+}
+
+#workIMG4 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work4.jpeg);
+}
+
+#workIMG5 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work5.jpg);
+}
+
+#workIMG6 {
+    height: 400px;
+    width: 500px;
+    background-image: url(../images/work6.jpg);
 }
 
 table {
