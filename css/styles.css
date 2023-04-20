@@ -154,11 +154,17 @@ fieldset {
 .grid img{
     width: 300px;
     height: 200px;
+    display: inline-block;
 }
 
 .bluArticle {
     background-color:#0D3B66;
     color: #F4D35E;
+}
+
+.blueSection {
+    background-color: #0D3B66;
+    color:#F4D35E;
 }
 
 table {
