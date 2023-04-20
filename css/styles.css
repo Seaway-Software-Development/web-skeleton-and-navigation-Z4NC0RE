@@ -179,6 +179,7 @@ fieldset {
     left: 50%;
     border-radius: 5px;
     color: black;
+    transform: translate(-50%, -50%);
 }
 
 .grid a:hover {
