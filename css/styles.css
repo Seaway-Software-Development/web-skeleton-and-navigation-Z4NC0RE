@@ -141,15 +141,15 @@ fieldset {
 
 }
 
-#lorem1, #lorem2, #lorem3 {
-    width: 29%;
-    float: left;
-	margin: 0 2%;
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
 }
 
-#lorem1 img, #lorem2 img, #lorem3 img {
-    height: 200px;
+.grid img{
     width: 300px;
+    hegiht: 200px;
 }
 
 table {
