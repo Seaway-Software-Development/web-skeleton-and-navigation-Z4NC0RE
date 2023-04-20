@@ -5,7 +5,7 @@
 }
 
 body {
-
+    background-color: #FAF0CA;
 }
 
 h1 {
@@ -168,6 +168,16 @@ fieldset {
     width: 300px;
     height: 200px;
     display: inline-block;
+}
+
+.grid a {
+    background-color: white;
+    color: black;
+}
+
+.grid a:hover {
+    background-color: white;
+    color: #0D3B66;
 }
 
 .bluArticle {
