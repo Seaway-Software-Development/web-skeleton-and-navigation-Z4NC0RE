@@ -175,11 +175,8 @@ fieldset {
     padding: 10px;
     text-decoration: none;
     position: absolute;
-    top: 50%;
-    left: 50%;
     border-radius: 5px;
     color: black;
-    transform: translate(-50%, -50%);
 }
 
 .grid a:hover {
