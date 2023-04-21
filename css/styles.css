@@ -110,6 +110,11 @@ article section {
     color: black;
     padding: 15px;
     border-radius: 5px;
+    text-decoration: none;
+}
+
+.learnMore:hover {
+    text-decoration: underline;
 }
 
 .headertext {
