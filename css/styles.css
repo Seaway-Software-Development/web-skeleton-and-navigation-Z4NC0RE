@@ -94,6 +94,11 @@ article section {
     padding: 150px 20%;
 }
 
+.homeHeader {
+    text-decoration: underline;
+    text-align: center;
+}
+
 #section2 {
     background-color:#0D3B66;
     color: #F4D35E;
